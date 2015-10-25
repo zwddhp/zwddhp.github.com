@@ -1005,7 +1005,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #df6109;
+  background: #bac354;
 }
 .sidebar-nav {
   margin: 0;
@@ -1747,9 +1747,6 @@ body {
 }
 .theme-next #ds-thread #ds-reset .ds-service-list .ds-more-services:hover {
   background: none;
-}
-.theme-next #ds-thread #ds-reset .ds-service-list .ds-more-services #ds-thread #ds-reset .ds-powered-by {
-  display: none;
 }
 .theme-next .this_ua {
   background-color: #ccc !important;
